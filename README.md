@@ -20,13 +20,10 @@ My name is Marco Visin and I'm a software engineer. I'm from Italy, living in Lu
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/mrc527/mrc527">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrc527&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/mrc527/mrc527">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrc527&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Marco's's GitHub Stats" />
-</a>
-![Marco's's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrc527&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrc527&show_icons=true&langs_count=8&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/anuraghazra/github-readme-stats)
+![Marco's's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrc527&show_icons=true&layout=compact&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
+
+
 
 
 <!-- links to social media icons -->
