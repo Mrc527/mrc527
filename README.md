@@ -26,6 +26,7 @@ My name is Marco Visin and I'm a software engineer. I'm from Italy, living in Lu
 <a href="https://github.com/mrc527/mrc527">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrc527&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Marco's's GitHub Stats" />
 </a>
+![Marco's's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrc527&count_private=true)
 
 
 <!-- links to social media icons -->
