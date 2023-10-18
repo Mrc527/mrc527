@@ -2,7 +2,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/Mrc527/mrc527/master/wave.gif" width="30px">
 
-My name is Marco Visin and I'm a software engineer. I'm from Italy, living in Lugano (CH) and currently working at [e-globe solutions][3]. You can find me on [![LinkedIn][3.2]][2]
+My name is Marco Visin and I'm a software engineer. I'm from Italy, living in Lugano (CH). You can find me on [![LinkedIn][3.2]][2]
 
 
 ## 🔧 Technologies & Tools
@@ -43,8 +43,6 @@ My name is Marco Visin and I'm a software engineer. I'm from Italy, living in Lu
 
 [1]: https://github.com/mrc527
 [2]: https://www.linkedin.com/in/marcovisin/
-[3]: https://github.com/e-globe-solutions
-[4]: https://www.e-globe-solutions.com
 
 
 <!-- Resources -->
